@@ -1,0 +1,7 @@
+{
+  "name": "my-mod",
+  "version": "0.1.0",
+  "description": "Adds /my-mod, which opens a notes pane that keeps its notes between sessions",
+  "author": { "name": "Your Name" },
+  "types": "./types/index.d.ts"
+}

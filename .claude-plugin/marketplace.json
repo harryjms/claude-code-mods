@@ -1,0 +1,14 @@
+{
+  "name": "harryjms-mods",
+  "owner": { "name": "harryjms", "url": "https://github.com/harryjms" },
+  "description": "Claude Code mods, and the tools for making them",
+  "plugins": [
+    {
+      "name": "mod-creator",
+      "source": "./plugins/mod-creator",
+      "description": "A skill for building, testing and debugging Claude Code mods, with tested starter templates",
+      "category": "development",
+      "tags": ["mods", "skill"]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "my-mod",
+  "version": "0.1.0",
+  "description": "Shows the current git branch and how many files changed in the band above the prompt",
+  "author": { "name": "Your Name" }
+}

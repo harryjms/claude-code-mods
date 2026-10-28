@@ -1,0 +1,6 @@
+{
+  "name": "my-mod",
+  "version": "0.1.0",
+  "description": "Counts Claude's tool calls, shows the count beside the spinner, and adds /my-mod-stats",
+  "author": { "name": "Your Name" }
+}

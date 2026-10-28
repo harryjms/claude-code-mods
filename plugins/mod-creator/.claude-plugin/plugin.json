@@ -1,0 +1,8 @@
+{
+  "name": "mod-creator",
+  "version": "0.1.0",
+  "description": "A skill for building, testing and debugging Claude Code mods, with tested starter templates for a command, a pane, a tool-call guard and a band above the prompt",
+  "author": { "name": "harryjms", "url": "https://github.com/harryjms" },
+  "repository": "https://github.com/harryjms/claude-code-mods",
+  "keywords": ["mods", "plugins", "hooks", "skill"]
+}
