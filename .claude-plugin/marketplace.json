@@ -9,6 +9,13 @@
       "description": "A skill for building, testing and debugging Claude Code mods, with tested starter templates",
       "category": "development",
       "tags": ["mods", "skill"]
+    },
+    {
+      "name": "agent-map",
+      "source": "./plugins/agent-map",
+      "description": "A mod that adds /agent-map: this session's agents as a node map of who started whom and who messaged whom",
+      "category": "productivity",
+      "tags": ["mods", "agents", "graph"]
     }
   ]
 }

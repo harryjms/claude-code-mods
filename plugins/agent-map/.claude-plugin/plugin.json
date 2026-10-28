@@ -1,0 +1,8 @@
+{
+  "name": "agent-map",
+  "version": "0.1.0",
+  "description": "Adds /agent-map, a pane that draws this session's agents as a node map: who started whom, who messaged whom, and what each one is doing",
+  "author": { "name": "harryjms", "url": "https://github.com/harryjms" },
+  "repository": "https://github.com/harryjms/claude-code-mods",
+  "keywords": ["mods", "agents", "subagents", "teams", "graph"]
+}

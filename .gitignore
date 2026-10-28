@@ -1,0 +1,3 @@
+# Written by Claude Code when it loads a mod with --plugin-dir. It extends the
+# generated .claude-plugin/types/, which ignores itself.
+plugins/*/tsconfig.json

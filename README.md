@@ -7,6 +7,7 @@
 | Plugin | What it does |
 | :- | :- |
 | [`mod-creator`](plugins/mod-creator) | A `create-mod` skill that has Claude build, test, debug and share mods, with four tested starter templates |
+| [`agent-map`](plugins/agent-map) | A mod that adds `/agent-map`, a pane that draws the session's agents as a node map: who started whom, who messaged whom, and what each is doing |
 
 ## Install
 
